@@ -4,11 +4,12 @@ project:
 website:
   title: "Manoj M"
   favicon: "images/profilepic.jpg"
+
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+
 
 format:
   html:

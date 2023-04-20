@@ -4,7 +4,7 @@ about:
   template: solana
   image: images/profilepic.jpg
   image-shape: round
-  image-width: 10em
+  image-width: 13em
 
   links:
     - icon: linkedin
@@ -41,7 +41,7 @@ security, addressing and activation, and end device activation and limitation.
 
 ## Projects
 
-**DeepInspect** | Nov 2022 - Jan 2023
+**DeepInspect** | Nov 2022 - Jan 2023 
 
 *   Developed a Raspberry Pi-based system with image processing techniques and
 laser points to aid in depth perception for monitoring and accurately identifying the
@@ -51,3 +51,7 @@ size of cracks in underwater structures using a Pi cam.
 
 *   Designed and implemented a posture monitoring system using Arduino and
 ultrasonic sensors to detect incorrect sitting posture in office chairs.
+
+## Publications
+
+## Patents
