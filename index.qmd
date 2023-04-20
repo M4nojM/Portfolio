@@ -1,7 +1,40 @@
 ---
-title: "portfolio"
+title: "Finley Malloc"
+about:
+  template: trestles
+  image: images/profilepic.jpg
+  image-shape: round
+  image-width: 5em
+
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/manoj-murali-/
+    - icon: github
+      text: Github
+      href: https://github.com/M4nojM
 ---
 
-This is a Quarto website.
+I am a passionate robotics enthusiast with experience in embedded systems. Proficient in design thinking, project management, and collaboration, I am eager to contribute my skills to innovative projects that have a positive impact on society.  
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
+
+University of California, San Diego | San Diego, CA
+PhD in Mathematics | Sept 2011 - June 2015
+
+Dr.Mahalingam College of Engineering and Technology | Pollachi, India | 
+Bachelours in ECE | 2020 ‑ 2024 (Expected)
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
+
+FORGE INNOVATION AND VENTURES | INNOVATION ENGINEER TRAINEE
+Oct 2022 ‑ Feb 2023 | Coimbatore, India
+
+Developed practical skills in design thinking, rapid prototyping, and electronics
+testing during ProtoSem. Acquired expertise in IoT, ROS, and Embedded Systems.
+Led an interdisciplinary team of 9 to design, develop, and deploy innovative
+solutions for real-world problems. Demonstrated

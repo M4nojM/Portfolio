@@ -9,8 +9,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "portfolio",
+    "title": "Finley Malloc",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I am a passionate robotics enthusiast with experience in embedded systems. Proficient in design thinking, project management, and collaboration, I am eager to contribute my skills to innovative projects that have a positive impact on society."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Finley Malloc",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nDr.Mahalingam College of Engineering and Technology | Pollachi, India | Bachelours in ECE | 2020 ‑ 2024 (Expected)"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Finley Malloc",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018\nFORGE INNOVATION AND VENTURES | INNOVATION ENGINEER TRAINEE Oct 2022 ‑ Feb 2023 | Coimbatore, India\nDeveloped practical skills in design thinking, rapid prototyping, and electronics testing during ProtoSem. Acquired expertise in IoT, ROS, and Embedded Systems. Led an interdisciplinary team of 9 to design, develop, and deploy innovative solutions for real-world problems. Demonstrated"
   }
 ]
