@@ -54,4 +54,8 @@ ultrasonic sensors to detect incorrect sitting posture in office chairs.
 
 ## Publications
 
+**ROS2 E-book**
+
+*   This is a ebook created by myself and my fried rishikesavan r 
+  
 ## Patents

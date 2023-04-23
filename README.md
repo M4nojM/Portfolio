@@ -1,3 +1,3 @@
 # portfolio
 
-    My portfoli website *built using quarto
+    This repository contains files of my portfolio built using quarto
